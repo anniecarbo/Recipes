@@ -1,2 +1,2 @@
 # Recipes
-Html exercice from The Odin Project
+HTML exercice from The Odin Project
